@@ -17,9 +17,8 @@
 I decided to take spare time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Read:newspaper: Dev and Ops articles daily 
+* Avoid spending too much time on Short video Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
 
 <!-- Your badges -->
