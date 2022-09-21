@@ -1,4 +1,6 @@
 ![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true)
 
