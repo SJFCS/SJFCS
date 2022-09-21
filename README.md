@@ -1,16 +1,14 @@
 <!-- Greeting -->
-# Hey there! :wave::smiley:
+# Hey there! :wave::smiley: <br> I'm SongJinfeng! 
 
 <!--Introduction -->
-I'm SongJinfeng! 
-
 <br>
+<img src="/github-metrics.svg" alt="Metrics" align="right" width="400">
 
 - Working on SRE/DevOps
 - Using Kubernetes, Istio/Envoy, Go/Python,
 - Interested in Distributed System(like Kubernetes, Blockchain), Linux, Networking, and many other stuffs.
 - learn more about me at **https://songjinfeng.com/**
-
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -31,8 +29,12 @@ Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 
 <!-- Working GIF -->
-<img src="/github-metrics.svg" alt="Metrics" align="right" width="400">
-
+<p> <!-- GitHub README Stats -->
+  <a href="https://github.com/JoykishanSharma?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true" />
+  </a>
+</p>
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
 * Learning some vectors drawing:art: by using Adobe Illustrator.
@@ -50,12 +52,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * 🔜
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true" />
-  </a>
-</p>
+
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
