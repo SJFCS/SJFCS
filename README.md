@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true)
 
 - Working on SRE/DevOps
