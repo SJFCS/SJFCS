@@ -1,21 +1,31 @@
 <!-- Greeting -->
-# Hey there! :wave::smiley: <br> I'm SongJinfeng! 
+## Hey! :wave: I'm SongJinfeng.
 
 <!--Introduction -->
-<br>
 <img src="/github-metrics.svg" alt="Metrics" align="right" width="400">
+
+### 💼 Things that I'm currently working on: 
 
 - Working on SRE/DevOps
 - Using Kubernetes, Istio/Envoy, Go/Python,
 - Interested in Distributed System(like Kubernetes, Blockchain), Linux, Networking, and many other stuffs.
 - learn more about me at **https://songjinfeng.com/**
-<br>
+
+### 🌱 Challenges that I’m currently challenging myself:
+I decided to take spare time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+
+* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
+* Read:newspaper: Dev and UI articles daily 
+* Workout:weight_lifting_man: 3 days in a row and take a day break 
+* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Adapting the minimalism life style
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-## Skills
+## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile
+<!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes)
@@ -29,17 +39,7 @@ Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 
 <!-- Working GIF -->
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true" />
-  </a>
-</p>
-### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
-* 🔜
+<img src="https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true"  width="500" height="auto" align="right" alt="github stats" />
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
@@ -49,19 +49,5 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Workout:weight_lifting_man: 3 days in a row and take a day break 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
-* 🔜
-
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
-
-<!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
-
-
-
-
-
-⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
