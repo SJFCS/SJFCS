@@ -1,7 +1,7 @@
 ![](assets/Bottom_up.svg)
 
 
-
+/b
 <!-- Greeting -->
 ## Hey! :wave: I'm SongJinfeng.
 
@@ -50,8 +50,8 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 ![](assets/tools.png)
 
 <!--   GitHub stats graph -->
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SJFCS&hide_border=true&theme=default)
+![Asmit's GitHub activity graph](https://activity-graph.heroku/bapp.com/graph?username=SJFCS&hide_border=true&theme=github-light)
 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=SJFCS&show_icons=true&theme=default&include_all_commits=true) 
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=SJFCS&show_icons=true&t/bheme=default&include_all_commits=true) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SJFCS"></img>
