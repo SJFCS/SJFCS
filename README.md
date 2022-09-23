@@ -41,15 +41,14 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 [![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)](https://github.com/istio/istio)
 [![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nginx/nginx)
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJFCS&theme=default&layout=compact)
-
-<img src="https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true"  width="500" height="auto" align="right" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJFCS&theme=default&layout=compact" width="500" height="auto" align="left" alt="github stats"></img>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true"  width="500" height="auto" align="right" alt="github stats" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SJFCS" width="500" height="auto" align="right" alt="github stats"></img>
 
 
 ![](assets/tools.png)
 
-<!--   GitHub stats graph -->
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SJFCS&hide_border=true&theme=github-light)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SJFCS"></img>
+<!--   GitHub stats graph -->
