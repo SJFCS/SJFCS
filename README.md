@@ -7,9 +7,9 @@
 
 <!--Introduction -->
 
-### 💼 Things that I'm currently working on: 
+<img src="/github-metrics.svg" alt="Metrics" align="right" width="300">
 
-<img src="/github-metrics.svg" alt="Metrics" align="right" width="400">
+### 💼 Things that I'm currently working on: 
 
 - Working on SRE/DevOps
 - Using Kubernetes, Istio/Envoy, Go/Python,
