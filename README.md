@@ -7,7 +7,7 @@
 
 <!--Introduction -->
 
-<img src="/github-metrics.svg" alt="Metrics" align="right" width="350">
+<img src="/github-metrics.svg" alt="Metrics" align="right" width="370">
 
 ### 💼 Things that I'm currently working on: 
 
