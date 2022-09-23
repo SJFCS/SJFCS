@@ -44,10 +44,14 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true"  width="500" height="auto" align="right" alt="github stats" />
+
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJFCS&theme=default&layout=compact)
+
 ![](assets/tools.png)
+
 <!--   GitHub stats graph -->
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SJFCS&hide_border=true&theme=default)
+
 ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=SJFCS&show_icons=true&theme=default&include_all_commits=true) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SJFCS"></img>
