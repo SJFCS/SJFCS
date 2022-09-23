@@ -44,7 +44,7 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true"  width="500" height="auto" align="right" alt="github stats" /> -->
 
 
-<table><tr>
+<table border=0 cellspacing=0 cellpadding=0><tr>
 <td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SJFCS&theme=default&layout=compact width="auto" height="160" alt="Top Langs" border=0></td>
 <td><img src=https://github-readme-streak-stats.herokuapp.com/?user=SJFCS width="auto" height="160" alt="Streak Stats" border=0></td>
 </tr></table>
@@ -53,7 +53,15 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 
 
 ![](assets/tools.png)
+![Banner](assets/Bottom_down.svg)
 
 
 
 <!--   GitHub stats graph -->
+
+<div>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SJFCS&theme=default&layout=compact ' width="auto" height="160" alt="Top Langs" style="display:block;border:0px;padding:0px;float:left;">
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=SJFCS ' width="auto" height="160" alt="Top Langs" style="display:block;border:0px;padding:0px;float:left;">
+</div>
+
+margin-left:-6px
