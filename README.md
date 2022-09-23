@@ -1,16 +1,15 @@
-![](assets/Bottom_up.svg)
 
-
-/b
 <!-- Greeting -->
+![Banner](assets/Bottom_up.svg)
 ## Hey! :wave: I'm SongJinfeng.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+SongJinfeng;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+SongJinfeng;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg) -->
 
 <!--Introduction -->
-<img src="/github-metrics.svg" alt="Metrics" align="right" width="400">
 
 ### 💼 Things that I'm currently working on: 
+
+<img src="/github-metrics.svg" alt="Metrics" align="right" width="400">
 
 - Working on SRE/DevOps
 - Using Kubernetes, Istio/Envoy, Go/Python,
@@ -42,16 +41,15 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 [![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)](https://github.com/istio/istio)
 [![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nginx/nginx)
 
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJFCS&theme=default&layout=compact)
 
 <img src="https://github-readme-stats.vercel.app/api?username=SJFCS&theme=graywhite&show_icons=true"  width="500" height="auto" align="right" alt="github stats" />
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJFCS&theme=default&layout=compact)
 
 ![](assets/tools.png)
 
 <!--   GitHub stats graph -->
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SJFCS&hide_border=true&theme=github-light)
 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=SJFCS&show_icons=true&t/bheme=default&include_all_commits=true) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SJFCS"></img>
