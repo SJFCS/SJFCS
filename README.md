@@ -53,4 +53,4 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 
 
 ![](assets/tools.png)
-![Banner](assets/Bottom_down.svg)
+<!-- ![Banner](assets/Bottom_down.svg) -->
