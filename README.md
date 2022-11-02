@@ -11,12 +11,15 @@
 
 ### 💼 Things that I'm currently working on: 
 
-- Working on SRE/DevOps
-- Using Kubernetes, Istio/Envoy, Go/Python,
+- 🤖 Working on SRE/DevOps
+- 👨‍💻 Learning Golang，Python，Devops，Cloud Native，React ...
 - Interested in Distributed System(like Kubernetes, Blockchain), Linux, Networking, and many other stuffs.
-- learn more about me at **https://songjinfeng.com/**
+- ✍️ learn more about me at [MyBlog](https://songjinfeng.com/)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+- 💬 Ask me about Anything you want~ [email](mailto:song.jinfeng@outlook.com)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/SJFCS?label=follow%20me&style=social)](https://github.com/SJFCS/SJFCS)
 
 ### 🌱 Challenges that I’m currently challenging myself:
 I decided to take spare time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
