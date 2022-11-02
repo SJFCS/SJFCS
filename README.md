@@ -13,18 +13,18 @@
 
 - 🤖 Working on SRE/DevOps
 - 👨‍💻 Learning Golang，Python，Devops，Cloud Native，React ...
-- Interested in Distributed System(like Kubernetes, Blockchain), Linux, Networking, and many other stuffs.
-- ✍️ learn more about me at [MyBlog](https://songjinfeng.com/)
+- 🎣 Interested in Distributed System(like Kubernetes, Blockchain), Linux, Networking, and many other stuffs.
+- ✍️ learn more about me at [Blog](https://songjinfeng.com/)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-- 💬 Ask me about Anything you want~ [email](mailto:song.jinfeng@outlook.com)
+- 💬 Ask me about Anything you want~ [Email](mailto:song.jinfeng@outlook.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/SJFCS?label=follow%20me&style=social)](https://github.com/SJFCS/SJFCS)
 
 ### 🌱 Challenges that I’m currently challenging myself:
 I decided to take spare time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code:man_technologist: 2-3 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: Dev and Ops articles daily 
 * Avoid spending too much time on Short video Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
