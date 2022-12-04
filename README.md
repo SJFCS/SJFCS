@@ -52,7 +52,7 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 <td><img src=https://github-readme-streak-stats.herokuapp.com/?user=SJFCS width="auto" height="160" alt="Streak Stats" border=0></td>
 </tr></table>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=SJFCS&hide_border=true&theme=github-light"  width="auto" height="auto" align="center" alt="Contribution Graph" /> 
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=SJFCS&hide_border=true&theme=github-light"  width="auto" height="auto" align="center" alt="Contribution Graph" />  -->
 
 
 ![](assets/tools.png)
