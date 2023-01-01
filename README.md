@@ -55,5 +55,24 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=SJFCS&hide_border=true&theme=github-light"  width="auto" height="auto" align="center" alt="Contribution Graph" />  -->
 
 
+### ✨ [My Badges](https://www.credly.com/users/username.songjinfeng)
+
+<p align=""> 
+  <a href="https://www.credly.com/badges/7f665fcf-c0a4-44e7-8b09-06584280dfc2">
+    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/7f665fcf-c0a4-44e7-8b09-06584280dfc2/image.png" alt="trophy" />
+  </a> 
+  <a href="https://www.credly.com/badges/c37a3b97-5438-4c05-a28b-6ea2d6f38905">
+    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/c37a3b97-5438-4c05-a28b-6ea2d6f38905/image.png" alt="trophy" />
+  </a> 
+  <a href="https://www.credly.com/badges/02d42601-dfd8-41de-a90b-6e1aba0c716d">
+    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/https://www.credly.com/badges/02d42601-dfd8-41de-a90b-6e1aba0c716d/image.png" alt="trophy" />
+  </a> 
+</p>
+
+<p align=""> 
+  <img src="https://github-profile-trophy.vercel.app/?username=SJFCS&row=1" alt="trophy" />
+</p>
+
+
 ![](assets/tools.png)
 <!-- ![Banner](assets/Bottom_down.svg) -->
