@@ -59,13 +59,13 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 
 <p align=""> 
   <a href="https://www.credly.com/badges/7f665fcf-c0a4-44e7-8b09-06584280dfc2">
-    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/7f665fcf-c0a4-44e7-8b09-06584280dfc2/image.png" alt="trophy" />
+    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" />
   </a> 
   <a href="https://www.credly.com/badges/c37a3b97-5438-4c05-a28b-6ea2d6f38905">
-    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/c37a3b97-5438-4c05-a28b-6ea2d6f38905/image.png" alt="trophy" />
+    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" />
   </a> 
   <a href="https://www.credly.com/badges/02d42601-dfd8-41de-a90b-6e1aba0c716d">
-    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/https://www.credly.com/badges/02d42601-dfd8-41de-a90b-6e1aba0c716d/image.png" alt="trophy" />
+    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS" />
   </a> 
 </p>
 
