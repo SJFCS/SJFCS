@@ -64,6 +64,9 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
   <a href="https://www.credly.com/earner/earned/share/46d4a035-24e7-4408-9237-42eba03c64cf">
     <img width="200" height="200" src="https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA" />
   </a>
+</p>
+
+<p align=""> 
   <a href="https://www.credly.com/badges/7f665fcf-c0a4-44e7-8b09-06584280dfc2">
     <img width="200" height="200" src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" />
   </a>
