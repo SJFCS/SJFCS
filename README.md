@@ -58,14 +58,20 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 ### ✨ [My Badges](https://www.credly.com/users/username.songjinfeng)
 
 <p align=""> 
+  <a href="https://www.credly.com/earner/earned/share/14b87040-30ed-446d-b269-b693a2f0a0d0">
+    <img width="200" height="200" src="https://images.credly.com/size/220x220/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="RHCE" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/share/46d4a035-24e7-4408-9237-42eba03c64cf">
+    <img width="200" height="200" src="https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA" />
+  </a>
   <a href="https://www.credly.com/badges/7f665fcf-c0a4-44e7-8b09-06584280dfc2">
-    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" />
-  </a> 
+    <img width="200" height="200" src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" />
+  </a>
   <a href="https://www.credly.com/badges/c37a3b97-5438-4c05-a28b-6ea2d6f38905">
-    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" />
-  </a> 
+    <img width="200" height="200" src="https://images.credly.com/size/220x220/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" />
+  </a>
   <a href="https://www.credly.com/badges/02d42601-dfd8-41de-a90b-6e1aba0c716d">
-    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS" />
+    <img width="200" height="200" src="https://images.credly.com/size/220x220/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS" />
   </a> 
 </p>
 
