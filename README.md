@@ -81,6 +81,12 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 </p>
 
 <p align=""> 
+  <a href="https://www.credential.net/d8d99fb8-92b1-4fee-8e71-cd6158277c19#gs.46sctu">
+    <img width="200" height="200" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79461204" alt="Introduction to Continuous Delivery and GitOps using Argo CD" />
+  </a>
+</p>
+
+<p align=""> 
   <img src="https://github-profile-trophy.vercel.app/?username=SJFCS&row=1" alt="trophy" />
 </p>
 
