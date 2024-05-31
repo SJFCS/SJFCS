@@ -60,10 +60,10 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 ### ✨ [My Badges](https://www.credly.com/users/username.songjinfeng)
 
 <p align=""> 
-  <a href="https://www.credly.com/earner/earned/share/14b87040-30ed-446d-b269-b693a2f0a0d0">
+  <a href="https://www.credly.com/badges/14b87040-30ed-446d-b269-b693a2f0a0d0">
     <img width="200" height="200" src="https://images.credly.com/size/220x220/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="RHCE" />
   </a>
-  <a href="https://www.credly.com/earner/earned/share/46d4a035-24e7-4408-9237-42eba03c64cf">
+  <a href="https://www.credly.com/badges/46d4a035-24e7-4408-9237-42eba03c64cf">
     <img width="200" height="200" src="https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA" />
   </a>
 </p>
