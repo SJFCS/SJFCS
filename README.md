@@ -33,6 +33,7 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 
 <!-- Your badges -->
 <img align="right" width="33%" style="margin-bottom: 2em" src="https://raw.githubusercontent.com/SJFCS/SJFCS/main/assets/Popper.png">
+
 ### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
