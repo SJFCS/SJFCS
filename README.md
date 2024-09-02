@@ -3,6 +3,8 @@
 <!-- ![Banner](assets/Bottom_up.svg) -->
 ![](assets/tools.png)
 
+<img align="right" width="33%" style="margin-bottom: 2em" src="https://raw.githubusercontent.com/SJFCS/SJFCS/main/assets/Popper.png">
+
 ## Hey! :wave: I'm SongJinfeng.
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+SongJinfeng;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg) -->
@@ -32,8 +34,6 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 * Adapting the minimalism life style
 
 <!-- Your badges -->
-<img align="right" width="33%" style="margin-bottom: 2em" src="https://raw.githubusercontent.com/SJFCS/SJFCS/main/assets/Popper.png">
-
 ### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
