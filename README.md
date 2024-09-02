@@ -3,7 +3,7 @@
 <!-- ![Banner](assets/Bottom_up.svg) -->
 ![](assets/tools.png)
 
-<img align="right" width="33%" style="margin-bottom: 2em" src="https://raw.githubusercontent.com/SJFCS/SJFCS/main/assets/Popper.png">
+<!-- <img align="right" width="33%" style="margin-bottom: 2em" src="https://raw.githubusercontent.com/SJFCS/SJFCS/main/assets/Popper.png">  -->
 
 ## Hey! :wave: I'm SongJinfeng.
 
