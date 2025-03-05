@@ -18,7 +18,7 @@
 - 🤖 Working on SRE/DevOps
 - 👨‍💻 Learning Golang, Python, DevOps, Cloud Native, React ...
 - 🎣 Interested in Cloud Native (like Kubernetes, Istio, Webassembly, Prometheus...), Linux, Networking, Blockchain, and many other stuffs.
-- ✍️ learn more about me at [Blog](https://www.cloudnative.love/)
+- ✍️ learn more about me at [Blog](https://cloudnative.love/)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
