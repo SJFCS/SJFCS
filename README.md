@@ -16,7 +16,7 @@
 ### 💼 Things that I'm currently working on: 
 
 - 🤖 Working on SRE/DevOps
-- 👨‍💻 Learning Golang, Python, Devops, Cloud Native, React ...
+- 👨‍💻 Learning Golang, Python, DevOps, Cloud Native, React ...
 - 🎣 Interested in Cloud Native (like Kubernetes, Istio, Webassembly, Prometheus...), Linux, Networking, Blockchain, and many other stuffs.
 - ✍️ learn more about me at [Blog](https://www.cloudnative.love/)
 
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about Anything you want~ [Email](mailto:song.jinfeng@outlook.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/SJFCS?label=follow%20me&style=social)](https://github.com/SJFCS/SJFCS)
-
+<!--
 ### 🌱 Challenges that I’m currently challenging myself:
 I decided to take spare time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
@@ -32,6 +32,7 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 * Read:newspaper: Dev and Ops articles daily 
 * Avoid spending too much time on Short video Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
+-->
 
 <!-- Your badges -->
 ### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
