@@ -77,7 +77,7 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
     <img width="200" height="200" src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" />
   </a>
   <a href="https://www.credly.com/badges/c37a3b97-5438-4c05-a28b-6ea2d6f38905">
-    <img width="200" height="200" src="https://images.credly.com/size/220x220/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" />
+    <img width="200" height="200" src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD" />
   </a>
   <a href="https://www.credly.com/badges/02d42601-dfd8-41de-a90b-6e1aba0c716d">
     <img width="200" height="200" src="https://images.credly.com/size/220x220/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS" />
@@ -90,8 +90,8 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
   </a>
 </p>
 
-<p align=""> 
+<!-- <p align=""> 
   <img src="https://github-profile-trophy.vercel.app/?username=SJFCS&row=1" alt="trophy" />
-</p>
+</p> -->
 
 <!-- ![Banner](assets/Bottom_down.svg) -->
