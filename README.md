@@ -54,7 +54,7 @@ I decided to take spare time focusing on feeding more knowledge:books: to myself
 
 
 <table style="width:100%" ><tr>
-<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SJFCS&theme=default&layout=compact&hide=css,html,smarty,TypeScript width="auto" height="160" alt="Top Langs" border=0></td>
+<!-- <td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SJFCS&theme=default&layout=compact&hide=css,html,smarty,TypeScript width="auto" height="160" alt="Top Langs" border=0></td> -->
 <td><img src=https://github-readme-streak-stats.herokuapp.com/?user=SJFCS width="auto" height="160" alt="Streak Stats" border=0></td>
 </tr></table>
 
